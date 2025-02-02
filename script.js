@@ -6,6 +6,7 @@ let messages = [
     "Don't break my heart 💔",
     "You’ll regret this! 😆",
     "Pretty please? 🥰",
+    "Pls.......☹️",
     "Okay, last chance! 😏",
 ];
 
