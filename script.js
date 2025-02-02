@@ -12,7 +12,7 @@ let messages = [
 let msgIndex = 0;
 
 function sayYes() {
-    document.getElementById("question").innerText = "Yay! I love you! ❤️";
+    document.getElementById("question").innerText = "Yay! I luv u!🫶🏻❤️";
     document.getElementById("yesBtn").style.display = "none";
     document.getElementById("noBtn").style.display = "none";
 }
