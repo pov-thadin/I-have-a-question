@@ -4,7 +4,7 @@ let messages = [
     "Just think again maybe you click the wrong button 😉",
     "Come on, I know you like me! 🥺",
     "Don't break my heart 💔",
-    "You’ll regret this! 😆",
+    "You’ll regret this! 🙄",
     "Pretty please? 🥰",
     "Okay, last chance! 😏",
 ];
