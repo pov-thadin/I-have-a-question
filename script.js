@@ -6,7 +6,6 @@ let messages = [
     "Don't break my heart 💔",
     "You’ll regret this! 😆",
     "Pretty please? 🥰",
-    "Pls.......☹️",
     "Okay, last chance! 😏",
 ];
 
@@ -27,7 +26,7 @@ function sayNo() {
         document.getElementById("question").innerText = messages[msgIndex];
         msgIndex++;
     } else {
-        document.getElementById("question").innerText = "No is not an option anymore! 😈";
+        document.getElementById("question").innerText = "No is not an option anymore, you will be mine no matter what 🫵";
         document.getElementById("noBtn").style.display = "none"; // Hide "No" button after too many tries
     }
 }
