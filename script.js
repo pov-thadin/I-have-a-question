@@ -1,8 +1,8 @@
 let yesSize = 18;
 let messages = [
     "Are you really sure? 😢",
-    "Think again... I'm a great catch! 😉",
-    "Come on, give me a chance! 🥺",
+    "Just think again maybe you click the wrong button 😉",
+    "Come on, I know you like me! 🥺",
     "Don't break my heart 💔",
     "You’ll regret this! 😆",
     "Pretty please? 🥰",
